@@ -1,0 +1,8 @@
+npm init -y
+npm i dotenv express promise-mysql
+promise-mysql: Manejar nuestras conexiones de manera asincronas.
+
+npm i @babel/cli @babel/core @babel/node @babel/presets-env morgan nodemon -D
+https://www.youtube.com/watch?v=dkic3MU3858
+
+21:36
